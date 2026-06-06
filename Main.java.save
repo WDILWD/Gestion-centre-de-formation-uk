@@ -66,6 +66,46 @@ public class Main {
 
             switch (choix) {
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 case 2:
                     if (cours.isEmpty()) {
                         System.out.println("Aucun cours disponible !");
