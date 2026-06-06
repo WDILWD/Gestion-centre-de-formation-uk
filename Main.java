@@ -66,7 +66,80 @@ public class Main {
 
             switch (choix) {
 
-case 2:
+
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+ 
+              case 2:
                     if (cours.isEmpty()) {
                         System.out.println("Aucun cours disponible !");
                     } else {
@@ -74,5 +147,4 @@ case 2:
                         for (Cours c : cours) {
                             System.out.println(c);
                         }
-                    }
-                    break;
+                    }                    break;
