@@ -1,10 +1,10 @@
-#Gestion-centre-de-formation-uk
+Gestion-centre-de-formation-uk
 
 #Système de Gestion - Centre de Formation
 
 Ce projet est une application console écrite en Java qui permet de gérer les inscriptions, les cours, les enseignants et les notes au sein d'un centre de formation. L'application propose différents espaces de connexion adaptés au rôle de chaque utilisateur (Étudiant, Enseignant, Responsable).
 
-#Fonctionnalités
+Fonctionnalités
 
 Le système s'articule autour d'un menu principal offrant les options suivantes :
 
@@ -14,12 +14,12 @@ Le système s'articule autour d'un menu principal offrant les options suivantes 
 4. Espace Enseignant : Permet à un enseignant de se connecter avec son matricule pour visualiser la liste complète des étudiants inscrits et gérer le suivi des notes.
 5. Espace Responsable : Zone d'administration permettant de gérer la création des cours et l'enregistrement des enseignants (Fonctionnalité en cours de développement/complétion).
 
-#Technologies Utilisées
+Technologies Utilisées
 Langage : Java 
 Entrées/Sorties : java.util.Scanner pour l'interaction dans la console
 Stockage des données : java.util.ArrayList (Stockage dynamique en mémoire vive)
 
-#Structure du Code
+Structure du Code
 Le projet est contenu dans un fichier unique Main.java et s'appuie sur une architecture orientée objet avec plusieurs classes internes :
 
 Main : Contient la logique principale de l'application et la boucle du menu.
@@ -27,7 +27,7 @@ Etudiant : Représente un élève (nom, prénom, matricule, mot de passe, moyenn
 Enseignant : Représente un professeur (nom, prénom, matricule, matière enseignée).
 Cours : Représente une matière ou une formation dispensée dans le centre.
 
-#Exemple d'Utilisation
+Exemple d'Utilisation
 
 À l'exécution, le menu suivant s'affiche à l'écran :
 
